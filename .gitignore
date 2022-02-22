@@ -1,1 +1,4 @@
 ignoreThisFile.txt
+**/packages
+**/bin
+ignoreMeDir/
